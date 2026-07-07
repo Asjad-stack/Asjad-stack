@@ -291,13 +291,9 @@ Mindset     Clean UX + scalable code
 <!-- <br/> -->
 <br/>
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=FDE68A&center=true&vCenter=true&width=850&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=FDE68A&center=true&vCenter=true&width=850&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" /> 
 
 </div>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=FDE68A&center=true&vCenter=true&width=800&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" />
 
 </div>
 

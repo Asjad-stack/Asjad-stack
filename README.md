@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./assets/hero-header.svg" width="100%" alt="Muhammad Asjad Hero Header" />
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Building+fast%2C+clean%2C+and+secure+mobile+experiences.;React+Native+%E2%80%A2+Firebase+%E2%80%A2+Web3+%E2%80%A2+Wallet+Apps;Focused+on+real+products%2C+smooth+UX%2C+and+scalable+architecture." alt="Animated Developer Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2600&pause=900&color=4f4e30&center=true&vCenter=true&width=900&height=48&lines=Building+fast%2C+clean%2C+and+secure+mobile+experiences.;React+Native+%E2%80%A2+Firebase+%E2%80%A2+Web3+%E2%80%A2+Wallet+Apps;Focused+on+real+products%2C+smooth+UX%2C+and+scalable+architecture." alt="Animated Developer Intro" />
 
 <br/>
 <br/>

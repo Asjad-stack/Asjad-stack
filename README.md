@@ -276,14 +276,32 @@ Mindset     Clean UX + scalable code
 
 <div align="center">
 
-<a href="https://github.com/Asjad-stack">
+<a href="https://github.com/Asjad-stack" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/asjad-a-g-o-c-53b5a319a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:mughalaasjad577@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-FACC15?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" />
+</a>
+
+<a href="https://x.com/ASJAD3250" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow%20Me-020617?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=FDE68A&center=true&vCenter=true&width=850&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" />
+
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2600&pause=1000&color=FDE68A&center=true&vCenter=true&width=800&height=36&lines=Open+to+building+clean%2C+secure%2C+and+scalable+mobile+products.;React+Native+%2B+Web3+%2B+real-world+product+execution." alt="Connect Animation" />
 
 </div>
 

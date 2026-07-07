@@ -1,0 +1,307 @@
+<svg width="1196" height="288" viewBox="102 56 1196 288" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Asjad Midnight Gold Futuristic Header</title>
+  <desc id="desc">Animated futuristic Midnight Gold GitHub README hero header for Muhammad Asjad.</desc>
+
+  <defs>
+    <linearGradient id="midnightBg" x1="0" y1="0" x2="1400" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="30%" stop-color="#111827"/>
+      <stop offset="66%" stop-color="#1C1917"/>
+      <stop offset="100%" stop-color="#292524"/>
+      <animate attributeName="x1" values="0;80;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1400;1320;1400" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="goldName" x1="250" y1="90" x2="1140" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FEFCE8"/>
+      <stop offset="22%" stop-color="#FFF7C2"/>
+      <stop offset="48%" stop-color="#FDE68A"/>
+      <stop offset="72%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+      <animate attributeName="x1" values="250;350;250" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1140;1040;1140" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="goldStroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FACC15" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FACC15"/>
+      <stop offset="50%" stop-color="#FDE68A"/>
+      <stop offset="80%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="shimmer" x1="-450" y1="0" x2="-140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="42%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.90"/>
+      <stop offset="58%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-450;1220" dur="5.2s" begin="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-140;1530" dur="5.2s" begin="1.6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FACC15" stop-opacity="0.34"/>
+      <stop offset="40%" stop-color="#F59E0B" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="leftGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FACC15" stop-opacity="0.26"/>
+      <stop offset="55%" stop-color="#FACC15" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FACC15" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="rightGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.24"/>
+      <stop offset="55%" stop-color="#F59E0B" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="nameGlow" x="-30%" y="-55%" width="160%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#FDE68A" flood-opacity="0.30"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#F59E0B" flood-opacity="0.26"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.40"/>
+    </filter>
+
+    <filter id="softGoldGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#FACC15" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#F59E0B" flood-opacity="0.24"/>
+    </filter>
+
+    <filter id="badgeGlow" x="-40%" y="-60%" width="180%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#FACC15" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#F59E0B" flood-opacity="0.18"/>
+    </filter>
+
+    <pattern id="fineGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <pattern id="dotGrid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#FACC15" fill-opacity="0.32"/>
+    </pattern>
+
+    <clipPath id="heroClip">
+      <rect x="102" y="56" width="1196" height="288" rx="30"/>
+    </clipPath>
+
+    <clipPath id="subtitleReveal">
+      <rect x="350" y="238" width="0" height="42" rx="4">
+        <animate attributeName="width" values="0;705" dur="1.35s" begin="1.05s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#heroClip)">
+    <rect width="1400" height="460" fill="url(#midnightBg)"/>
+    <rect width="1400" height="460" fill="url(#fineGrid)" opacity="0.72"/>
+
+    <circle cx="700" cy="195" r="245" fill="url(#centerGlow)">
+      <animate attributeName="r" values="228;258;228" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="210" cy="175" r="180" fill="url(#leftGlow)">
+      <animate attributeName="cx" values="210;250;210" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="175;150;175" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1190" cy="176" r="190" fill="url(#rightGlow)">
+      <animate attributeName="cx" values="1190;1140;1190" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="176;150;176" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity="0.44" filter="url(#softGoldGlow)">
+      <g transform="rotate(0 700 190)">
+        <circle cx="700" cy="190" r="118" stroke="#F59E0B" stroke-opacity="0.30" stroke-width="1.4" stroke-dasharray="4 12"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 700 190" to="360 700 190" dur="42s" repeatCount="indefinite"/>
+      </g>
+
+      <g transform="rotate(0 700 190)">
+        <circle cx="700" cy="190" r="147" stroke="#FACC15" stroke-opacity="0.24" stroke-width="1.2" stroke-dasharray="80 34 16 38"/>
+        <animateTransform attributeName="transform" type="rotate" from="360 700 190" to="0 700 190" dur="36s" repeatCount="indefinite"/>
+      </g>
+
+      <g transform="rotate(0 700 190)">
+        <circle cx="700" cy="190" r="178" stroke="#FDE68A" stroke-opacity="0.15" stroke-width="1" stroke-dasharray="2 9"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 700 190" to="360 700 190" dur="56s" repeatCount="indefinite"/>
+      </g>
+
+      <line x1="700" y1="64" x2="700" y2="318" stroke="#FDE68A" stroke-opacity="0.14" stroke-width="1"/>
+      <line x1="535" y1="190" x2="865" y2="190" stroke="#FDE68A" stroke-opacity="0.12" stroke-width="1"/>
+    </g>
+
+    <g opacity="0.38">
+      <rect x="252" y="135" width="78" height="72" fill="url(#dotGrid)" opacity="0.55"/>
+      <rect x="858" y="92" width="78" height="72" fill="url(#dotGrid)" opacity="0.45"/>
+      <rect x="1034" y="256" width="78" height="72" fill="url(#dotGrid)" opacity="0.42"/>
+      <rect x="432" y="63" width="82" height="62" fill="url(#dotGrid)" opacity="0.25"/>
+    </g>
+
+    <rect x="102.5" y="56.5" width="1195" height="287" rx="29.5" stroke="#FDE68A" stroke-opacity="0.10"/>
+
+    <path d="M122 98V74L146 56H286" stroke="#FACC15" stroke-width="4" stroke-opacity="0.82"/>
+    <path d="M1278 98V74L1254 56H1114" stroke="#FACC15" stroke-width="4" stroke-opacity="0.82"/>
+    <path d="M122 302V326L146 344H286" stroke="#FACC15" stroke-width="4" stroke-opacity="0.82"/>
+    <path d="M1278 302V326L1254 344H1114" stroke="#FACC15" stroke-width="4" stroke-opacity="0.82"/>
+
+    <g opacity="0.58">
+      <path d="M160 66H300L318 78H430L442 88H610" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.5"/>
+      <path d="M1240 66H1098L1080 78H970L958 88H790" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.5"/>
+      <path d="M160 334H296L316 322H430L444 312H610" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.42"/>
+      <path d="M1240 334H1100L1080 322H970L956 312H790" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.42"/>
+    </g>
+
+    <g opacity="0" filter="url(#badgeGlow)">
+      <animate attributeName="opacity" values="0;1;0.25;1;0.4;1;0.55;1" keyTimes="0;0.12;0.23;0.38;0.52;0.68;0.84;1" dur="1.35s" begin="0s" fill="freeze"/>
+
+      <path d="M150 96L166 82H342L356 96V122L342 136H166L150 122V96Z" fill="#0B0F14" fill-opacity="0.72" stroke="#FACC15" stroke-width="1.8"/>
+      <path d="M176 96L190 88L204 96V118L190 126L176 118V96Z" stroke="#FACC15" stroke-width="1.4" fill="#111827" fill-opacity="0.36"/>
+      <path d="M181 108H187L190 101L195 117L199 108H204" stroke="#FDE68A" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <circle cx="225" cy="110" r="6" fill="#FACC15">
+        <animate attributeName="opacity" values="0.45;1;0.45" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="5;7;5" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="272" y="116" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="15" font-weight="800" letter-spacing="1.6" fill="#FDE68A">
+        SYSTEM ONLINE
+      </text>
+    </g>
+
+    <g opacity="0.72" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M102 152H140L170 184H250L270 170H350" stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="9 8">
+        <animate attributeName="stroke-dashoffset" values="0;-90" dur="5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M102 178H188L212 202H304L328 186H392" stroke="#FACC15" stroke-width="1.8" stroke-dasharray="10 7">
+        <animate attributeName="stroke-dashoffset" values="0;-95" dur="4.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M102 206H180L226 238H322L346 222H448" stroke="#F59E0B" stroke-width="1.3" stroke-dasharray="8 8">
+        <animate attributeName="stroke-dashoffset" values="0;-80" dur="4.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M102 256H160L198 230H286L318 252H360" stroke="#F59E0B" stroke-width="1.4"/>
+      <path d="M102 290H205L250 266H340" stroke="#F59E0B" stroke-width="1.2"/>
+
+      <circle cx="250" cy="184" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="304" cy="202" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="322" cy="238" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="392" cy="186" r="3.2" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="448" cy="222" r="3.2" fill="#FACC15" filter="url(#softGoldGlow)"/>
+    </g>
+
+    <g opacity="0.72" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1298 152H1260L1230 184H1150L1130 170H1050" stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="9 8">
+        <animate attributeName="stroke-dashoffset" values="0;90" dur="5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1298 178H1212L1188 202H1096L1072 186H1008" stroke="#FACC15" stroke-width="1.8" stroke-dasharray="10 7">
+        <animate attributeName="stroke-dashoffset" values="0;95" dur="4.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1298 206H1220L1174 238H1078L1054 222H952" stroke="#F59E0B" stroke-width="1.3" stroke-dasharray="8 8">
+        <animate attributeName="stroke-dashoffset" values="0;80" dur="4.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1298 256H1240L1202 230H1114L1082 252H1040" stroke="#F59E0B" stroke-width="1.4"/>
+      <path d="M1298 290H1195L1150 266H1060" stroke="#F59E0B" stroke-width="1.2"/>
+
+      <circle cx="1150" cy="184" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="1096" cy="202" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="1078" cy="238" r="3.5" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="1008" cy="186" r="3.2" fill="#FACC15" filter="url(#softGoldGlow)"/>
+      <circle cx="952" cy="222" r="3.2" fill="#FACC15" filter="url(#softGoldGlow)"/>
+    </g>
+
+    <g opacity="0.62" filter="url(#softGoldGlow)">
+      <path d="M492 104H516M504 92V116" stroke="#FACC15" stroke-width="1.3"/>
+      <path d="M1116 104H1140M1128 92V116" stroke="#FACC15" stroke-width="1.3"/>
+      <path d="M310 308H334M322 296V320" stroke="#FACC15" stroke-width="1.3"/>
+      <path d="M1148 280H1172M1160 268V292" stroke="#FACC15" stroke-width="1.3"/>
+      <path d="M925 70L930 62H938L933 70H925ZM938 70L943 62H951L946 70H938ZM951 70L956 62H964L959 70H951ZM964 70L969 62H977L972 70H964Z" fill="#FACC15"/>
+    </g>
+
+    <text x="700" y="198" text-anchor="middle" font-family="Orbitron, 'Space Grotesk', 'Inter', 'Segoe UI', Arial, sans-serif" font-size="78" font-weight="900" letter-spacing="-1.2" fill="url(#goldName)" filter="url(#nameGlow)" opacity="0">
+      Muhammad Asjad
+      <animate attributeName="opacity" values="0;1" dur="0.85s" begin="0.22s" fill="freeze"/>
+      <animate attributeName="y" values="216;198" dur="0.85s" begin="0.22s" fill="freeze"/>
+      <animate attributeName="letter-spacing" values="2;-1.2" dur="0.85s" begin="0.22s" fill="freeze"/>
+    </text>
+
+    <text x="700" y="198" text-anchor="middle" font-family="Orbitron, 'Space Grotesk', 'Inter', 'Segoe UI', Arial, sans-serif" font-size="78" font-weight="900" letter-spacing="-1.2" fill="url(#shimmer)" opacity="0.32" pointer-events="none">
+      Muhammad Asjad
+    </text>
+
+    <g filter="url(#softGoldGlow)" opacity="0.92">
+      <rect x="300" y="224" width="0" height="2" rx="1" fill="url(#goldStroke)">
+        <animate attributeName="width" values="0;800" dur="1.05s" begin="0.92s" fill="freeze"/>
+      </rect>
+
+      <path d="M670 224H688L700 238L712 224H730" stroke="#FDE68A" stroke-width="2" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.7s" begin="1.15s" fill="freeze"/>
+      </path>
+
+      <path d="M692 224L700 234L708 224" stroke="#FACC15" stroke-width="2.5" opacity="0">
+        <animate attributeName="opacity" values="0;1;0.55;1" dur="1.4s" begin="1.15s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g clip-path="url(#subtitleReveal)">
+      <text x="700" y="270" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="22" font-weight="500" letter-spacing="1.5" fill="#FEF3C7" opacity="0.96">
+        React Native Developer • Mobile + Web3 Builder
+      </text>
+    </g>
+
+    <rect x="350" y="245" width="3" height="30" rx="1.5" fill="#FACC15" opacity="0" filter="url(#softGoldGlow)">
+      <animate attributeName="opacity" values="0;1;1;0" dur="1.58s" begin="1.02s" fill="freeze"/>
+      <animate attributeName="x" values="350;1055" dur="1.35s" begin="1.05s" fill="freeze"/>
+    </rect>
+
+    <g transform="translate(650 328)" filter="url(#softGoldGlow)" opacity="0.85">
+      <rect x="0" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="10" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.1s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="20" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="30" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.3s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="40" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="50" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.5s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="60" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="70" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.7s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.7s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="80" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="90" y="0" width="4" height="10" rx="1" fill="#FACC15">
+        <animate attributeName="height" values="7;18;7" dur="1.2s" begin="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="3;-5;3" dur="1.2s" begin="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="-310" y="0" width="170" height="460" fill="#FFFFFF" opacity="0.045" transform="skewX(-15)">
+      <animate attributeName="x" values="-310;1530" dur="7.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <path d="M0 370C165 336 340 391 538 365C731 340 860 305 1047 326C1193 343 1294 352 1400 336V460H0V370Z" fill="#020617" opacity="0.42"/>
+    <path d="M0 398C180 364 364 409 560 388C754 367 885 348 1068 365C1207 378 1307 388 1400 377V460H0V398Z" fill="#020617" opacity="0.78"/>
+  </g>
+</svg>

@@ -70,7 +70,7 @@ Mindset     Clean UX + scalable code
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=850&height=42&lines=I+build+mobile+apps+with+structure%2C+speed%2C+and+clarity.;Clean+interfaces%2C+reliable+flows%2C+and+features+that+feel+ready+for+users." alt="Developer Identity Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1000&color=FDE68A&center=true&vCenter=true&width=850&height=42&lines=I+build+mobile+apps+with+structure%2C+speed%2C+and+clarity.;Clean+interfaces%2C+reliable+flows%2C+and+features+that+feel+ready+for+users." alt="Developer Identity Animation" />
 
 </div>
 
@@ -182,123 +182,6 @@ Mindset     Clean UX + scalable code
 </td>
   </tr>
 </table>
-
----
-
-## 🚀 Featured Public Projects
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:6366F1,100:A855F7" width="70%" alt="Projects Divider" />
-
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔐 FlashWalletReBrand
-
-A React Native mobile wallet-style project focused on blockchain-ready app flows, wallet utilities, Firebase messaging, authentication, local persistence, Web3 packages, Solana tooling, WalletConnect, and crypto-related mobile features.
-
-<br/>
-
-<a href="https://github.com/Asjad-stack/FlashWalletReBrand">
-  <img src="https://img.shields.io/badge/View%20Repository-FlashWalletReBrand-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="FlashWalletReBrand Repository" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/React%20Native-Mobile-020617?style=flat-square&logo=react&logoColor=22D3EE" alt="React Native" />
-<img src="https://img.shields.io/badge/Firebase-App%20%7C%20Auth%20%7C%20Messaging-020617?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-<img src="https://img.shields.io/badge/WalletConnect-Web3-020617?style=flat-square&logo=walletconnect&logoColor=white" alt="WalletConnect" />
-<img src="https://img.shields.io/badge/Solana-Web3.js-020617?style=flat-square&logo=solana&logoColor=14F195" alt="Solana" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Xendora
-
-A React Native application with wallet-oriented helpers, local database structure, navigation, crypto utilities, reusable mobile components, and product-focused app foundations.
-
-<br/>
-
-<a href="https://github.com/Asjad-stack/Xendora">
-  <img src="https://img.shields.io/badge/View%20Repository-Xendora-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Xendora Repository" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/React%20Native-Mobile-020617?style=flat-square&logo=react&logoColor=22D3EE" alt="React Native" />
-<img src="https://img.shields.io/badge/Ethers.js-Crypto%20Utils-020617?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" />
-<img src="https://img.shields.io/badge/SQLite-Local%20Storage-020617?style=flat-square&logo=sqlite&logoColor=38BDF8" alt="SQLite" />
-<img src="https://img.shields.io/badge/Navigation-App%20Flows-020617?style=flat-square" alt="Navigation" />
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 depolybackend
-
-A lightweight Node.js and Express backend project for basic server setup, route handling, environment configuration, and deployment testing.
-
-<br/>
-
-<a href="https://github.com/Asjad-stack/depolybackend">
-  <img src="https://img.shields.io/badge/View%20Repository-depolybackend-14B8A6?style=for-the-badge&logo=github&logoColor=black" alt="depolybackend Repository" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-Backend-020617?style=flat-square&logo=node.js&logoColor=22C55E" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-Routes-020617?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/dotenv-Config-020617?style=flat-square" alt="dotenv" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Asjad-stack
-
-A profile repository built to present my developer identity, public work, technologies, and mobile engineering direction.
-
-<br/>
-
-<a href="https://github.com/Asjad-stack/Asjad-stack">
-  <img src="https://img.shields.io/badge/View%20Profile%20Repo-Asjad--stack-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Asjad-stack Profile Repository" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Profile-Developer%20Brand-020617?style=flat-square&logo=github&logoColor=white" alt="Developer Brand" />
-<img src="https://img.shields.io/badge/Focus-Mobile%20%2B%20Web3-020617?style=flat-square" alt="Mobile Web3" />
-<img src="https://img.shields.io/badge/README-Portfolio%20Space-020617?style=flat-square" alt="README Portfolio" />
-
-</td>
-  </tr>
-</table>
-
----
-
-## 📌 Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/Asjad-stack/FlashWalletReBrand">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjad-stack&repo=FlashWalletReBrand&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" alt="FlashWalletReBrand Repo Card" />
-</a>
-
-<a href="https://github.com/Asjad-stack/Xendora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjad-stack&repo=Xendora&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" alt="Xendora Repo Card" />
-</a>
-
-</div>
 
 ---
 

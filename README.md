@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Muhammad%20Asjad&fontSize=56&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Web3%20Mobile%20Engineer%20%7C%20Wallet%20App%20Builder&descSize=17&descAlignY=58&color=0:020617,35:0F172A,65:1E1B4B,100:22D3EE&fontColor=F8FAFC&animation=fadeIn" width="100%" alt="Muhammad Asjad Hero Header" />
-
-<br/>
+  <img src="./assets/hero-header.svg" width="100%" alt="Muhammad Asjad Hero Header" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Building+fast%2C+clean%2C+and+secure+mobile+experiences.;React+Native+%E2%80%A2+Firebase+%E2%80%A2+Web3+%E2%80%A2+Wallet+Apps;Focused+on+real+products%2C+smooth+UX%2C+and+scalable+architecture." alt="Animated Developer Intro" />
 
